@@ -1,0 +1,15 @@
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\bin\Debug\net7.0\banking_app.exe
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\bin\Debug\net7.0\banking_app.deps.json
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\bin\Debug\net7.0\banking_app.runtimeconfig.json
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\bin\Debug\net7.0\banking_app.dll
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\bin\Debug\net7.0\banking_app.pdb
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.AssemblyInfo.cs
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.dll
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\refint\banking_app.dll
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.pdb
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\banking_app.genruntimeconfig.cache
+C:\Users\Pierre\Documents\Projects\OpenClassrooms\.NET\debutant_C#\banking_app\obj\Debug\net7.0\ref\banking_app.dll
